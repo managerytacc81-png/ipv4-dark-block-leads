@@ -1,0 +1,16 @@
+prefix,size,ips,RIR,org,est_value_usd,liveness_flags,dormant_score,priority,alloc_date,country,contact_domain,contact_emails,opaque_id
+8.9.0.0/16,/16,65536,ARIN,"Level 3 Parent, LLC",1329070.08,unannounced=True;domain_resolves=True;mx_alive=True;is_legacy=True,100.0,PRIME_TARGET,19921201,US,level3.com,abuse@level3.com;rpki-roa@lumen.com;ipadmin@lumen.com;ipadmin@centurylink.com,e5e3b9c13678dfc483fb1f819d70883c
+9.8.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.147.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.150.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.172.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.184.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.186.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.189.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.194.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.197.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.201.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.207.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.213.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.221.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
+9.222.0.0/16,/16,65536,ARIN,IBM,1329070.08,unannounced=True;domain_resolves=False;mx_alive=True;is_legacy=True,85.0,PRIME_TARGET,19881216,US,us.ibm.com,ipreg@us.ibm.com,01ded2cfbf925b607a18e340b391b0db
